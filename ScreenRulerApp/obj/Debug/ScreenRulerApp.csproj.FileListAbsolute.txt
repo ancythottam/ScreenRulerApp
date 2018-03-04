@@ -1,0 +1,9 @@
+D:\CQS\ScreenRulerApplication\ScreenRulerApp\ScreenRulerApp\bin\Debug\ScreenRulerApp.exe.config
+D:\CQS\ScreenRulerApplication\ScreenRulerApp\ScreenRulerApp\obj\Debug\ScreenRulerApp.csprojResolveAssemblyReference.cache
+D:\CQS\ScreenRulerApplication\ScreenRulerApp\ScreenRulerApp\obj\Debug\ScreenRulerApp.ScreenRulerFrm.resources
+D:\CQS\ScreenRulerApplication\ScreenRulerApp\ScreenRulerApp\obj\Debug\ScreenRulerApp.Properties.Resources.resources
+D:\CQS\ScreenRulerApplication\ScreenRulerApp\ScreenRulerApp\obj\Debug\ScreenRulerApp.csproj.GenerateResource.Cache
+D:\CQS\ScreenRulerApplication\ScreenRulerApp\ScreenRulerApp\bin\Debug\ScreenRulerApp.exe
+D:\CQS\ScreenRulerApplication\ScreenRulerApp\ScreenRulerApp\bin\Debug\ScreenRulerApp.pdb
+D:\CQS\ScreenRulerApplication\ScreenRulerApp\ScreenRulerApp\obj\Debug\ScreenRulerApp.exe
+D:\CQS\ScreenRulerApplication\ScreenRulerApp\ScreenRulerApp\obj\Debug\ScreenRulerApp.pdb
